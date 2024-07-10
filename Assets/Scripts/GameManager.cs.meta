@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2029e1e563546de449e26436fe25cd8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blade: {instanceID: 0}
+  - spawner: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - fadeImage: {instanceID: 0}
+  - endGameSound: {fileID: 8300000, guid: 4f72a25c5903dee4cba07fbc9002c7d9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

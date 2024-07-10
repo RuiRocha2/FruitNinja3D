@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e2fc55f8f2deb34d98edcfb50b0d6ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - fuseSound: {fileID: 8300000, guid: 7c30ccff99caf704da6f3b83b7e13ada, type: 3}
+  - explodeSound: {fileID: 8300000, guid: 4f72a25c5903dee4cba07fbc9002c7d9, type: 3}
+  - throwSound: {fileID: 8300000, guid: e731989d17df68d45907373de29e6b19, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
